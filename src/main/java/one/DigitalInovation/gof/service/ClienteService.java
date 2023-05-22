@@ -1,6 +1,6 @@
-package service;
+package one.DigitalInovation.gof.service;
 
-import model.Cliente;
+import one.DigitalInovation.gof.model.Cliente;
 
 public interface ClienteService {
 
